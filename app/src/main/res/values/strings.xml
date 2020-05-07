@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Kabaadi Bazaar</string>
+    <string name="login">Login</string>
+    <string name="make_your_city_clean">Make your city clean!</string>
+    <string name="login_to_sell_your_scrap_and_manage_pickups">Login to sell your scrap and manage pickups</string>
+    <string name="_91">+91</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="new_user_sign_up">New User? Sign Up</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="create_password">Create Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="move_to_login">Move to Login</string>
+    <string name="enter_your_registerd_email_address">Enter Your Registerd Email Address</string>
+    <string name="send_mail">Send Mail</string>
 </resources>
