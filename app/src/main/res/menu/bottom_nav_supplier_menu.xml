@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_supplier_home"
+        android:icon="@drawable/ic_home_green"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/navigation_supplier_request"
+        android:icon="@drawable/shipped"
+        android:title="@string/request" />
+
+    <item
+        android:id="@+id/navigation_supplier_wallet"
+        android:icon="@drawable/wallet_green"
+        android:title="@string/wallet" />
+
+    <item
+        android:id="@+id/navigation_supplier_account"
+        android:icon="@drawable/ic_account_green"
+        android:title="@string/account" />
+
+</menu>

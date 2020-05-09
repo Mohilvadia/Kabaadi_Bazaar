@@ -4,13 +4,11 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.project.kabaadibazaar.R
 
-class DashBoardActivity : AppCompatActivity() {
+
+class WeBuyActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_dash_board2)
-
-
+        setContentView(R.layout.activity_we_buy)
     }
-
 }
