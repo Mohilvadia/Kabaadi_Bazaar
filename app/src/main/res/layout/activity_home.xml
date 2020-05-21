@@ -32,6 +32,7 @@
         </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/book"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
@@ -43,6 +44,7 @@
                 android:src="@drawable/ic_add_black_24dp"
                 android:layout_weight="1"/>
             <TextView
+                android:id="@+id/bookrequest"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="BOOK REQUEST"
@@ -72,6 +74,7 @@
                 android:src="@drawable/ic_indian_rupee_green"
                 android:layout_weight="1"/>
             <TextView
+                android:id="@+id/ratelist"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="RATE LIST"
@@ -101,6 +104,7 @@
                 android:src="@drawable/ic_sync_black_24dp"
                 android:layout_weight="1"/>
             <TextView
+                android:id="@+id/howit"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="HOW IT WORKS"

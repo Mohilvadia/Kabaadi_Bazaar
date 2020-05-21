@@ -2,4 +2,8 @@
     <string name="app_name">Kabaadi Bazaar</string>
     <string name="close">close</string>
     <string name="open">open</string>
+    <string name="text_alcohol">alcohol</string>
+    <string name="text_coffee">coffee</string>
+    <string name="text_pasta">pasta</string>
+    <string name="text_cold_drinks">cold</string>
 </resources>
