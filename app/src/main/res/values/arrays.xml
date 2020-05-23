@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="string_array_coffee" />
+    <string-array name="string_array_pasta">pasta</string-array>
+    <string-array name="string_array_cold_drinks">cold</string-array>
+    <string-array name="string_array_alcohol">alcohol</string-array>
+</resources>

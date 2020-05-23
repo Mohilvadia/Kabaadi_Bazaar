@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <group android:id="@+id/book1">
+            <item
+                android:id="@+id/book"
+                android:title="Book Request"
+                android:icon="@drawable/ic_add_black_24dp" />
+        </group>
+    <group android:id="@+id/rate1">
+        <item
+            android:id="@+id/rate"
+            android:title="Rate List"
+            android:icon="@drawable/ic_indian_rupee_green"/>
+    </group>
+    <group android:id="@+id/howit1">
+        <item
+            android:id="@+id/howit"
+            android:title="How It Works"
+            android:icon="@drawable/ic_sync_black_24dp"/>
+    </group>
+    <group android:id="@+id/about1">
+        <item
+            android:id="@+id/about"
+            android:title="About Us"
+            android:icon="@drawable/ic_error_black_24dp"/>
+    </group>
+    <group android:id="@+id/share1">
+        <item
+            android:id="@+id/share"
+            android:title="Share It"
+            android:icon="@drawable/ic_share_black_24dp"/>
+    </group>
+    <group android:id="@+id/contact1">
+        <item
+            android:id="@+id/contact"
+            android:title="Contact Us"
+            android:icon="@drawable/ic_call_black_24dp"
+            />
+    </group>
+    <group android:id="@+id/jbs">
+        <item></item>
+    </group>
+</menu>
