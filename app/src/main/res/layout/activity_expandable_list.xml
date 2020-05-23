@@ -42,13 +42,14 @@
                 android:textColor="#000000"
                 android:layout_marginStart="20dp"
                 android:layout_gravity="center_vertical"/>
+
             <ImageView
                 android:id="@+id/down1"
-                android:layout_width="50dp"
-                android:layout_height="60dp"
-                android:layout_weight="1"
+                android:layout_width="20dp"
+                android:layout_height="50dp"
                 android:layout_gravity="end"
-                android:src="@drawable/ic_keyboard_arrow_down_black_24dp"/>
+                android:layout_weight="1"
+                android:src="@drawable/ic_keyboard_arrow_down_black_24dp" />
 
         </LinearLayout>
         <LinearLayout
@@ -72,8 +73,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="8"
-                    android:text="PLASTIC"
-                    android:textSize="18sp"
+                    android:text="Mix Plastic"
+                    android:textSize="16sp"
                     android:fontFamily="@font/montserrat_light"
                     android:textColor="#000000"
                     android:layout_marginStart="20dp"
@@ -94,53 +95,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="8"
-                    android:text="PLASTIC"
-                    android:textSize="18sp"
-                    android:fontFamily="@font/montserrat_light"
-                    android:textColor="#000000"
-                    android:layout_marginStart="20dp"
-                    android:layout_gravity="center_vertical"/>
-            </LinearLayout>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:weightSum="10"
-                android:layout_marginVertical="10dp"
-                android:orientation="horizontal">
-                <ImageView
-                    android:layout_width="50dp"
-                    android:layout_height="60dp"
-                    android:layout_weight="1"
-                    android:src="@drawable/plastic"/>
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="8"
-                    android:text="PLASTIC"
-                    android:textSize="18sp"
-                    android:fontFamily="@font/montserrat_light"
-                    android:textColor="#000000"
-                    android:layout_marginStart="20dp"
-                    android:layout_gravity="center_vertical"/>
-            </LinearLayout>
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:weightSum="10"
-                android:layout_marginVertical="10dp"
-                android:orientation="horizontal">
-                <ImageView
-                    android:layout_width="50dp"
-                    android:layout_height="60dp"
-                    android:layout_weight="1"
-                    android:src="@drawable/plastic"/>
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="8"
-                    android:text="PLASTIC"
-                    android:textSize="18sp"
+                    android:text="Milk covers"
+                    android:textSize="16sp"
                     android:fontFamily="@font/montserrat_light"
                     android:textColor="#000000"
                     android:layout_marginStart="20dp"
@@ -162,8 +118,30 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="8"
-                    android:text="PLASTIC"
-                    android:textSize="18sp"
+                    android:text="Water/Oil Covers"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/montserrat_light"
+                    android:textColor="#000000"
+                    android:layout_marginStart="20dp"
+                    android:layout_gravity="center_vertical"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="10"
+                android:layout_marginVertical="10dp"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="60dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/plastic"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:text="Polythene (Mix)"
+                    android:textSize="16sp"
                     android:fontFamily="@font/montserrat_light"
                     android:textColor="#000000"
                     android:layout_marginStart="20dp"
@@ -185,8 +163,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="8"
-                    android:text="PLASTIC"
-                    android:textSize="18sp"
+                    android:text="HPP"
+                    android:textSize="16sp"
                     android:fontFamily="@font/montserrat_light"
                     android:textColor="#000000"
                     android:layout_marginStart="20dp"
@@ -208,8 +186,31 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="8"
-                    android:text="PLASTIC"
-                    android:textSize="18sp"
+                    android:text="Plastic Jar (15Ltr)"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/montserrat_light"
+                    android:textColor="#000000"
+                    android:layout_marginStart="20dp"
+                    android:layout_gravity="center_vertical"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="10"
+                android:layout_marginVertical="10dp"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="60dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/plastic"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:text="Fiber"
+                    android:textSize="16sp"
                     android:fontFamily="@font/montserrat_light"
                     android:textColor="#000000"
                     android:layout_marginStart="20dp"
@@ -230,8 +231,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="8"
-                    android:text="PLASTIC"
-                    android:textSize="18sp"
+                    android:text="Plastic Bori"
+                    android:textSize="16sp"
                     android:fontFamily="@font/montserrat_light"
                     android:textColor="#000000"
                     android:layout_marginStart="20dp"
@@ -275,8 +276,8 @@
                         android:layout_gravity="center_vertical"/>
                     <ImageView
                         android:id="@+id/down2"
-                        android:layout_width="50dp"
-                        android:layout_height="60dp"
+                        android:layout_width="20dp"
+                        android:layout_height="50dp"
                         android:layout_weight="1"
                         android:layout_gravity="end"
                         android:src="@drawable/ic_keyboard_arrow_down_black_24dp"/>
@@ -303,8 +304,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="News Paper"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
@@ -325,8 +326,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="Books"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
@@ -347,8 +348,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="Carton (House)"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
@@ -369,8 +370,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="Magazines"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
@@ -391,8 +392,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="White Paper"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
@@ -413,8 +414,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="Grey Board"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
@@ -435,8 +436,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="Record Paper"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
@@ -457,8 +458,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="Plain Paper"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
@@ -502,8 +503,8 @@
                         android:layout_gravity="center_vertical"/>
                     <ImageView
                         android:id="@+id/down3"
-                        android:layout_width="50dp"
-                        android:layout_height="60dp"
+                        android:layout_width="20dp"
+                        android:layout_height="50dp"
                         android:layout_weight="1"
                         android:layout_gravity="end"
                         android:src="@drawable/ic_keyboard_arrow_down_black_24dp"/>
@@ -530,8 +531,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="Tin"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
@@ -552,8 +553,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="Steel"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
@@ -574,8 +575,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="Brass"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
@@ -596,8 +597,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="Copper"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
@@ -618,8 +619,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="Aluminium"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
@@ -640,52 +641,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
-                            android:fontFamily="@font/montserrat_light"
-                            android:textColor="#000000"
-                            android:layout_marginStart="20dp"
-                            android:layout_gravity="center_vertical"/>
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:weightSum="10"
-                        android:layout_marginVertical="10dp"
-                        android:orientation="horizontal">
-                        <ImageView
-                            android:layout_width="50dp"
-                            android:layout_height="60dp"
-                            android:layout_weight="1"
-                            android:src="@drawable/plastic"/>
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
-                            android:fontFamily="@font/montserrat_light"
-                            android:textColor="#000000"
-                            android:layout_marginStart="20dp"
-                            android:layout_gravity="center_vertical"/>
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:weightSum="10"
-                        android:layout_marginVertical="10dp"
-                        android:orientation="horizontal">
-                        <ImageView
-                            android:layout_width="50dp"
-                            android:layout_height="60dp"
-                            android:layout_weight="1"
-                            android:src="@drawable/plastic"/>
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="Oil Tin Fresh (15 Ltr)"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
@@ -729,8 +686,8 @@
                         android:layout_gravity="center_vertical"/>
                     <ImageView
                         android:id="@+id/down4"
-                        android:layout_width="50dp"
-                        android:layout_height="60dp"
+                        android:layout_width="20dp"
+                        android:layout_height="50dp"
                         android:layout_weight="1"
                         android:layout_gravity="end"
                         android:src="@drawable/ic_keyboard_arrow_down_black_24dp"/>
@@ -757,7 +714,73 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
+                            android:text="Mix Waste"
+                            android:textSize="16sp"
+                            android:fontFamily="@font/montserrat_light"
+                            android:textColor="#000000"
+                            android:layout_marginStart="20dp"
+                            android:layout_gravity="center_vertical"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="10"
+                        android:layout_marginVertical="10dp"
+                        android:orientation="horizontal">
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="60dp"
+                            android:layout_weight="1"
+                            android:src="@drawable/plastic"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="8"
+                            android:text="E-Waste"
+                            android:textSize="16sp"
+                            android:fontFamily="@font/montserrat_light"
+                            android:textColor="#000000"
+                            android:layout_marginStart="20dp"
+                            android:layout_gravity="center_vertical"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="10"
+                        android:layout_marginVertical="10dp"
+                        android:orientation="horizontal">
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="60dp"
+                            android:layout_weight="1"
+                            android:src="@drawable/plastic"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="8"
+                            android:text="Battery"
+                            android:textSize="16sp"
+                            android:fontFamily="@font/montserrat_light"
+                            android:textColor="#000000"
+                            android:layout_marginStart="20dp"
+                            android:layout_gravity="center_vertical"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:weightSum="10"
+                        android:layout_marginVertical="10dp"
+                        android:orientation="horizontal">
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="60dp"
+                            android:layout_weight="1"
+                            android:src="@drawable/plastic"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="8"
+                            android:text="Tyre"
                             android:textSize="18sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
@@ -779,140 +802,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
-                            android:fontFamily="@font/montserrat_light"
-                            android:textColor="#000000"
-                            android:layout_marginStart="20dp"
-                            android:layout_gravity="center_vertical"/>
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:weightSum="10"
-                        android:layout_marginVertical="10dp"
-                        android:orientation="horizontal">
-                        <ImageView
-                            android:layout_width="50dp"
-                            android:layout_height="60dp"
-                            android:layout_weight="1"
-                            android:src="@drawable/plastic"/>
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
-                            android:fontFamily="@font/montserrat_light"
-                            android:textColor="#000000"
-                            android:layout_marginStart="20dp"
-                            android:layout_gravity="center_vertical"/>
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:weightSum="10"
-                        android:layout_marginVertical="10dp"
-                        android:orientation="horizontal">
-                        <ImageView
-                            android:layout_width="50dp"
-                            android:layout_height="60dp"
-                            android:layout_weight="1"
-                            android:src="@drawable/plastic"/>
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
-                            android:fontFamily="@font/montserrat_light"
-                            android:textColor="#000000"
-                            android:layout_marginStart="20dp"
-                            android:layout_gravity="center_vertical"/>
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:weightSum="10"
-                        android:layout_marginVertical="10dp"
-                        android:orientation="horizontal">
-                        <ImageView
-                            android:layout_width="50dp"
-                            android:layout_height="60dp"
-                            android:layout_weight="1"
-                            android:src="@drawable/plastic"/>
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
-                            android:fontFamily="@font/montserrat_light"
-                            android:textColor="#000000"
-                            android:layout_marginStart="20dp"
-                            android:layout_gravity="center_vertical"/>
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:weightSum="10"
-                        android:layout_marginVertical="10dp"
-                        android:orientation="horizontal">
-                        <ImageView
-                            android:layout_width="50dp"
-                            android:layout_height="60dp"
-                            android:layout_weight="1"
-                            android:src="@drawable/plastic"/>
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
-                            android:fontFamily="@font/montserrat_light"
-                            android:textColor="#000000"
-                            android:layout_marginStart="20dp"
-                            android:layout_gravity="center_vertical"/>
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:weightSum="10"
-                        android:layout_marginVertical="10dp"
-                        android:orientation="horizontal">
-                        <ImageView
-                            android:layout_width="50dp"
-                            android:layout_height="60dp"
-                            android:layout_weight="1"
-                            android:src="@drawable/plastic"/>
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
-                            android:fontFamily="@font/montserrat_light"
-                            android:textColor="#000000"
-                            android:layout_marginStart="20dp"
-                            android:layout_gravity="center_vertical"/>
-                    </LinearLayout>
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:weightSum="10"
-                        android:layout_marginVertical="10dp"
-                        android:orientation="horizontal">
-                        <ImageView
-                            android:layout_width="50dp"
-                            android:layout_height="60dp"
-                            android:layout_weight="1"
-                            android:src="@drawable/plastic"/>
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_weight="8"
-                            android:text="PLASTIC"
-                            android:textSize="18sp"
+                            android:text="Waste Oil"
+                            android:textSize="16sp"
                             android:fontFamily="@font/montserrat_light"
                             android:textColor="#000000"
                             android:layout_marginStart="20dp"
